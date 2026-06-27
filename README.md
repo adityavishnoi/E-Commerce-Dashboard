@@ -238,29 +238,6 @@ Potential enhancements for future versions include:
 
 ---
 
-# Repository Structure
-
-```text
-E-Commerce-Sales-Dashboard/
-│
-├── Dashboard/
-│   └── ECommerce_Sales_Dashboard.pbix
-│
-├── Dataset/
-│   └── ecommerce_sales.csv
-│
-├── Images/
-│   ├── Dashboard_Overview.png
-│   ├── Customer_Insights.png
-│   ├── Product_Analysis.png
-│   └── Location_Insights.png
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 # Learning Outcomes
 
 Through this project, I gained hands-on experience in:
