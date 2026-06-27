@@ -10,7 +10,8 @@ The primary objective of this project is to provide stakeholders with a comprehe
 
 ## Dashboard Preview
 
-> **Add your dashboard screenshots here**
+<img width="1436" height="808" alt="Dashboard" src="https://github.com/user-attachments/assets/9b85309f-b3ea-4acc-aa58-cba9f576177a" />
+
 
 ```
 /images
